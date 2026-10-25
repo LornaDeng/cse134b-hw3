@@ -1,8 +1,8 @@
 | Field | Value |
 |---|---|
 | Repository URL | https://github.com/LornaDeng/cse134b-hw3 |
-| Part 1 Deployed URL | https://REPLACE-AFTER-NETLIFY-DEPLOYMENT/part1/cheese.html |
-| Part 2 Deployed URL | https://REPLACE-AFTER-NETLIFY-DEPLOYMENT/ |
+| Part 1 Deployed URL | https://preeminent-sawine-6342d8.netlify.app/part1/cheese.html |
+| Part 2 Deployed URL | https://preeminent-sawine-6342d8.netlify.app/ |
 
 # Wenqing Deng HW3 Portfolio
 
@@ -14,5 +14,3 @@ This repository contains the CSE 134B Homework 3 cheese exercise and the styled 
 - Root HTML pages, `styles/`, and `assets/`: Part 2 personal portfolio.
 
 Netlify publish directory: repository root. No build command or frontend framework is required.
-
-Before submission, replace both Netlify placeholders in the table with the deployed `https://` URLs.
