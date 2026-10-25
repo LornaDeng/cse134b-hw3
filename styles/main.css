@@ -1,0 +1,6 @@
+/* Existing HW2 styles moved from the embedded style blocks. */
+main { border: 1px solid; }
+project-summary { display: block; border: 1px solid; }
+project-summary > dialog { position: static; }
+
+/* Write the shared HW3 portfolio styles below this comment. */
